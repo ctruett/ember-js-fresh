@@ -3,6 +3,7 @@
 module.exports = function(environment) {
   var ENV = {
     modulePrefix: 'ticker',
+    podModulePrefix: 'ticker/pods',
     environment: environment,
     baseURL: '/',
     locationType: 'auto',
